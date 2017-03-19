@@ -1,0 +1,24 @@
+body{
+	background:#999;
+	font-family: arial;
+}
+h1, h2, li{
+	color: #555;
+}
+a{
+	color: green;
+}
+
+p{
+	color: white;
+	background: #666;
+	padding: 10px;
+}
+.secundary{
+	background: none;
+	color: #777;
+}
+#special{
+	background: red;
+	color: white;
+}
